@@ -14,11 +14,7 @@ export default function Home() {
           content="Find The Best Internet Services For All Of Your Needs like fast Internet services Apps Share  , TV ,Cienma"
         />
         <meta property="og:title" content="Halasat " />
-        <meta property="og:title" content="هاله سات " />
-        <meta
-          property="og:description"
-          content="هاله سات افضل خدمات انترنت لجميع حاجاتكم"
-        />
+
         <meta property="og:type" content="website" />
       </Head>
 
@@ -55,9 +51,9 @@ export default function Home() {
               </button>
             </a>
 
-            <h1 className=" text-xl font-bold text-white  ">
+            <h2 className=" text-xl font-bold text-white  ">
               You can get the APP
-            </h1>
+            </h2>
             <span className="flex flex-row space-x-2 ">
               <a href="http://google.com">
                 {" "}
@@ -101,9 +97,9 @@ export default function Home() {
           </div>
 
           <div className="text-Gray md:text-left md:w-1/2 px-6 space-y-4">
-            <h1 className=" text-xl font-bold text-white  ">
+            <h2 className=" text-xl font-bold text-white  ">
               Shashety Live TV
-            </h1>
+            </h2>
             <p className="font-light">
               A platform to display live channels and the most important local
               and international sports matches with a wide range of
@@ -129,7 +125,7 @@ export default function Home() {
           </div>
 
           <div className="text-Gray text-center md:w-1/2 py-6 px-6 space-y-4 md:text-left">
-            <h1 className=" text-xl font-bold text-white ">Shashety Share</h1>
+            <h3 className=" text-xl font-bold text-white ">Shashety Share</h3>
             <p className="font-light">
               A platform for sharing digital content that contains the largest
               library of programs and electronic games that are ready and can be
