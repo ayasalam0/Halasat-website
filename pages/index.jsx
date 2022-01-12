@@ -50,7 +50,7 @@ export default function Home() {
               works
             </p>
             <a href="http://cinema.shashety.com/">
-              <button className="bg-red  rounded-xl  w-36    h-10 text-white ">
+              <button className="bg-red  rounded-xl  w-36    h-10 text-white   ">
                 Visit the Website
               </button>
             </a>
@@ -69,7 +69,7 @@ export default function Home() {
                   height={100}
                 />
               </a>
-              <a href="http://google.com">
+              <a href="https://play.google.com/store/apps/details?id=net.halasat.tv">
                 <Image
                   className="w-1/2"
                   src="/store2.svg"
